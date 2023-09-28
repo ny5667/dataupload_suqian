@@ -1,0 +1,16 @@
+{
+  "companies":[
+    {
+      "cid":"1000",
+      "companyCode":"SQ3213000043",
+      "companyName":"新亚强硅化学股份有限公司",
+      "aesKey":"f271379419e349ba",
+      "socketIp":"192.168.100.163",
+      "socketPort":"8010",
+      "serverAddress":"http://60.220.185.162:8901",
+      "adpServerIp":"10.54.4.21",
+      "adpServerPort":"8080",
+      "bitchSize":"9999"
+    }
+  ]
+}
