@@ -33,4 +33,5 @@ build/
 .vscode/
 
 scripts/dataupload_suqian-0.0.1-SNAPSHOT.jar
+scripts/logs/
 logs
